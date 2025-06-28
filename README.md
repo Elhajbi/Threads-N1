@@ -24,4 +24,3 @@ Chaque thread affichera **100 messages** contenant son **identifiant unique** (d
 ⚠️ L'ordre d'affichage n'est pas garanti car les threads s'exécutent **en parallèle**.  
 Ceci démontre l'absence de synchronisation explicite entre les threads.
 
-### Exemple de sortie :
